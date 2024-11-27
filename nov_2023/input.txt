@@ -1,0 +1,7 @@
+This is input file
+Line 2
+Line 3
+Line 4
+Some nums 14/05/1994
+Some chars !@##%$^&*(())
+Final Line 7 - Thala for a Reason

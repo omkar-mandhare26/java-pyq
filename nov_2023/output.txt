@@ -1,0 +1,7 @@
+This is input file
+Line 
+Line 
+Line 
+Some nums //
+Some chars !@##%$^&*(())
+Final Line  - Thala for a Reason
